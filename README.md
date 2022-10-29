@@ -1,1 +1,1 @@
-## [个人网站地址](https://rainfate.github.io/)
+## <a href="https://rainfate.github.io/" target="_blank">个人网站地址</a>
